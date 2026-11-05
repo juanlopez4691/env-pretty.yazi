@@ -8,7 +8,7 @@ Yazi's code previewer treats a dotenv file as flat text, so keys, the `export` k
 
 ## Requirements
 
-Nothing beyond the base system (`cat`, `wc`). Yazi 26.9.1 or newer (tested).
+Nothing beyond the base system (`cat`, `wc`). Yazi 25.12.29 or newer (nothing this plugin uses is newer than that; tested on 26.9.1).
 
 ## Install
 

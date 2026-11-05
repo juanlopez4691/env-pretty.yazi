@@ -1,4 +1,4 @@
---- @since 26.9.1
+--- @since 25.12.29
 --- .env previewer: aligned KEY=VALUE pairs, dimmed comments.
 ---
 --- Yazi's code previewer shows dotenv files as flat text, which makes long value
